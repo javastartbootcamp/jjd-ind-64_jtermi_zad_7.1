@@ -23,7 +23,6 @@ public class PalindromeService {
                 i++;
             }
         }
-
         return result;
     }
 }
